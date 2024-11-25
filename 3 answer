@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <h1>Web Page</h1>
+    <!--video tag-->
+    <video src="https://videos.pexels.com/video-files/14697192/14697192-hd_1080_1620_30fps.mp4"  width="100px" height="100px" controls autoplay loop></video>
+
+   </body>
+</html>
