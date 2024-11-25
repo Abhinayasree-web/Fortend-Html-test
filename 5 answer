@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Login page-->
+    <h1>Login page</h1>
+    <!--form page-->
+    <form actions="">
+        <!--username-->
+        <label for="Username">UserName</label>
+        <input type="text" id="UserName" placeholder=enter your name here><br><br>
+        
+        <!--password-->
+        <label for="Password">Password</label>
+        <input type="text" id="pasword" placeholder="enter your password" ><br><br>
+
+        <!--button-->
+        <button>submit</button>
+</body>
+</html>
